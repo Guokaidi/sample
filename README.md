@@ -1,3 +1,3 @@
 # sample
-hello word
-这是个实验
+hello world
+sublime 改
